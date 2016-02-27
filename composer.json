@@ -2,6 +2,7 @@
     "name": "nik-zp/yii2-remote-uploaded-file",
     "description": "",
     "version": "0.1.0",
+    "license": "MIT",
     "type": "yii2-extension",
     "authors": [
         {
