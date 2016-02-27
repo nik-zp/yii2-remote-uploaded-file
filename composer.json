@@ -1,0 +1,20 @@
+{
+    "name": "nik-zp/yii2-remote-uploaded-file",
+    "description": "",
+    "version": "0.1.0",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Nikolai Paschenko",
+            "email": "nik-zp@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+    },
+    "autoload": {
+        "psr-4": {
+            "nikzp\\uploadedFile\\": ""
+        }
+    }
+}
