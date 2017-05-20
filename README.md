@@ -13,7 +13,7 @@ or add
 ```
 to the `require` section of your `composer.json` file.
 
-##Usage (for example)
+## Usage (for example)
 ```
 use nikzp\uploadedFile\UploadedFile;
 ...
@@ -22,7 +22,7 @@ $file->saveAs('http://img.example.com/catalog/user/56/image.jpg');
 ```
 POST: to img.example.com server with image
 
-###Image Server
+### Image Server
 .htaccess
 ```
 RewriteEngine On
